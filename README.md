@@ -11,5 +11,6 @@
       - pip install requests-cache retry-requests numpy pandas
       - pip install openmeteo-requests
       - pip install geopy
-  3. Запустить локальный сервер командой py manage.py runserver
-  4. Открыть в браузере адрес http://127.0.0.1:8000/
+  3. Провести миграции командой py manage.py migrate
+  4. Запустить локальный сервер командой py manage.py runserver
+  5. Открыть в браузере адрес http://127.0.0.1:8000/
