@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(223, 223, 223);
+}
+
+.head{
+    font-size: 72px;
+}
+
+.form{
+    margin-left: 35%;
+    width: 40%;
+}
+
+.answer{
+    margin-top: 1%;
+    margin-left: 41%;
+}
+
+img{
+    margin-left: 5%;
+    width: 100px;
+    height: auto;
+}
+
+.allPart{
+    width: 500px;
+    height: 175px;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    border-radius: 1vw;
+    margin-top: -4%;
+}
+
+.all{
+    border-radius: 1vw;
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 175px;
+}
+
+.bodyPart{
+    font-size: 36px;
+}
+
+.headPart{
+    padding: 0;
+    margin: 0;
+}
+
+.city{
+    font-size: 24px;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.weather_name{
+    width: 100px;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    margin-left: 5%;
+    text-align: center;
+}
+
+datalist{
+    height: 100px;
+}
